@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🤓👾 <a href="https://www.smehetre.xyz">Shubham A. Mehetre</a>
 
-<span style="color: #000080; text-decoration-color: #000080">║</span> I Currently work as a Systems Engineer. I am from <a href="https://www.google.com/maps/place/Edinburgh/@55.9411289,-3.3454205,11z">India</a>, <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Python Programmer
+<span style="color: #000080; text-decoration-color: #000080">║</span> I Currently work as a Systems Engineer. I am from <a href="https://www.google.com/maps/place/Edinburgh/@55.9411289,-3.3454205,11z">India</a>,           <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Python Programmer
 
 <span style="color: #000080; text-decoration-color: #000080">║</span> my passions would be reading, <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐧 Linux Enthusiast
 
