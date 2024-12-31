@@ -13,6 +13,7 @@
 <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Check out my wesite: </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://www.shubmehetre.com" rel="noopener noreferrer" target="_blank">https://www.shubmehetre.com</a></span>         <span style="color: #000080; text-decoration-color: #000080"> ║</span>
 <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Email me at:  </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="mailto:admin@shubmehetre.com">admin@shubmehetre.com</a></span>                      <span style="color: #000080; text-decoration-color: #000080"> ║</span>
 <span style="color: #000080; text-decoration-color: #000080">╚═══════════════════════════════════════════════════════════╝</span> 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=898025" style='border:none;'></iframe>
 </pre>
 
 <!---This is default
@@ -27,4 +28,4 @@ shubmehetre/shubmehetre is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=898025" style='border:none;'></iframe>
+
